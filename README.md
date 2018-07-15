@@ -48,12 +48,12 @@
 
 自前のブログ。
 
-なんにもこだわりなければ、おすすめははてなブログ。TumblrｔとかWordpressとか、技術的なことならQiitaでも。
+なんにもこだわりなければ、おすすめははてなブログ。TumblrとかWordpressとか、技術的なことならQiitaでも。
 
 持ってない人でどうしても持ちたくない人はマストドンの未収載の自分宛てリプライなんかでもいいかも。
 
 ## どうやって参加するの？
 
 [こちらからどうぞー。](https://docs.google.com/spreadsheets/d/1FZdREb0bHFNBo6LjoPa4qTMlz3rl1L62pp5i55r9krY/edit?usp=sharing)
-
+は
 わからなければ[やきゅ（YaQ@imastodon.net）](https://imastodon.net/@YaQ)までリプライで参加表明でも受け付けます！
